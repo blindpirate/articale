@@ -11,7 +11,7 @@
 
 # 最近开始学习`java`
 ```java
-public static Class GirlFriend(){
-GirlFriend dilireba = new GirlFriend();
+public static class GirlFriend {
+    GirlFriend dilireba = new GirlFriend();
 }
 ```
